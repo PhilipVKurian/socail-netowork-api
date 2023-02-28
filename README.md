@@ -3,9 +3,7 @@ Social network backend featuring mongo db and mongoose
 
 ## Description
 
-MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. In this project i learned
-to use mongo and mongoose in creating documents and sub-docs forming a basic socail-network back end. It allows users to be created edited and deleted. As well as 
-allowing the users to; create thoughts, add friends and react to other user's thoughts.
+MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. In this project, mongodb is being used to create documents and sub-docs, forming a basic social-network back-end. The app allows users to be created, edited, and deleted. Also users can; create thoughts, add friends and react to other user's thoughts.
 
 ## Table of Contents
 
